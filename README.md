@@ -7,6 +7,7 @@
 
 <p align="center"><b>ASUS Z170-DELUXE</b></p>
 <p align=center>macOS Install Instructions (Clover v5130)</p>
+<p>For specs, notes, other informations see the linked Insanelymac guide</p>
 
 
 ## Installation:
@@ -38,6 +39,7 @@ Example Structure:
 <p align=center>That’s it!</p>
 <p align=center><b> Happy Hackintoshing!  </b></p>
 <p align=center>2021</p>
-<p align=center>Insanelymac - @kushwavez</p>
-<p align=center>GitHub - kushwavez</p>
-<p align=center>Reddit - u/kushwavez</p>
+<p align=center>Insanelymac - <a href="https://www.insanelymac.com/forum/profile/2210435-kushwavez/">@kushwavez</a></p>
+<p align=center><a href="https://github.com/kushwavez">GitHub - kushwavez</a></p>
+<p align=center>Reddit - <a href="https://www.reddit.com/user/kushwavez">u/kushwavez</a></p>
+<p align=center>Hungary 🇭🇺</p>
