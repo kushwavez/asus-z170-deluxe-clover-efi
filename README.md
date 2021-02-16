@@ -36,6 +36,9 @@ Example Structure:
     - (again, if there is no EFI folder, you need to create it first) 
 - Unmount and remove your USB Installer and restart your system 
 
+## Post Installation
+- Open up your config.plist with Clover Configurator.app, on SMBIOS tab, generate new SMBIOS, then you can log-in to iServices now
+
 <p align=center>That’s it!</p>
 <p align=center><b> Happy Hackintoshing!  </b></p>
 <p align=center>2021</p>
