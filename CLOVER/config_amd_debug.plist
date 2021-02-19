@@ -20,10 +20,6 @@
 			<key>PluginType</key>
 			<string>1</string>
 		</dict>
-		<key>#SortedOrder</key>
-		<array>
-			<string>SSDT.aml</string>
-		</array>
 		<key>DSDT</key>
 		<dict>
 			<key>Patches</key>
@@ -130,10 +126,6 @@
 			<key>Mirror</key>
 			<false/>
 		</dict>
-		<key>#Hide</key>
-		<array>
-			<string>Preboot</string>
-		</array>
 		<key>Scan</key>
 		<dict>
 			<key>Tool</key>
@@ -150,10 +142,8 @@
 	</dict>
 	<key>CPU</key>
 	<dict>
-		<key>UseARTFrequency</key>
+		<key>#UseARTFrequency</key>
 		<false/>
-		<key>#HWPEnable</key>
-		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -340,9 +330,5 @@
 		<key>XhciPortLimit</key>
 		<true/>
 	</dict>
-	<key>#DisableDrivers</key>
-	<array>
-		<string>VBoxHfs</string>
-	</array>
 </dict>
 </plist>

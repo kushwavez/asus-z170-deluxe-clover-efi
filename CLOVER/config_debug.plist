@@ -2,16 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#DisableDrivers</key>
-	<array>
-		<string>VBoxHfs</string>
-	</array>
 	<key>ACPI</key>
 	<dict>
-		<key>#SortedOrder</key>
-		<array>
-			<string>SSDT.aml</string>
-		</array>
 		<key>DSDT</key>
 		<dict>
 			<key>Debug</key>
@@ -26,13 +18,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -40,13 +28,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -54,13 +38,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -68,13 +48,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUMwXw==
-					</data>
+					<data>RUMwXw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -139,9 +115,7 @@
 	</dict>
 	<key>CPU</key>
 	<dict>
-		<key>#HWPEnable</key>
-		<true/>
-		<key>UseARTFrequency</key>
+		<key>#UseARTFrequency</key>
 		<false/>
 	</dict>
 	<key>Devices</key>
@@ -163,10 +137,6 @@
 	</dict>
 	<key>GUI</key>
 	<dict>
-		<key>#Hide</key>
-		<array>
-			<string>Preboot</string>
-		</array>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
