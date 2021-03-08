@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><b>ASUS Z170-DELUXE</b></p>
-<p align=center>macOS Install Instructions (Clover v5130)</p>
+<p align=center>macOS Install Instructions</p>
 <p>For specs, notes, other informations see the linked Insanelymac guide</p>
 
 
